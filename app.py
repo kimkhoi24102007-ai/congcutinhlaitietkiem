@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("TCTT.jpg")
 # ==============================
 # CẤU HÌNH ỨNG DỤNG
 # ==============================
