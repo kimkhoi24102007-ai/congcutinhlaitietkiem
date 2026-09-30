@@ -4,12 +4,12 @@ st.image("TCTT.jpg")
 # CẤU HÌNH ỨNG DỤNG
 # ==============================
 st.set_page_config(
-    page_title="Tính lãi tiền gửi tiết kiệm",
+    page_title="Tiệm cầm đồ",
     page_icon="🏦",
     layout="centered"
 )
 
-st.title("🏦 TÍNH LÃI TIỀN GỬI TIẾT KIỆM")
+st.title("🏦 Tiệm cầm đồ")
 st.caption("Tính toán tiền lãi theo phương pháp lãi đơn và lãi kép")
 
 # ==============================
